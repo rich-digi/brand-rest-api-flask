@@ -1,4 +1,5 @@
-**Brand API built with Flask
+Brand API built with Flask
+==========================
 
 Uses:
 - Flask
